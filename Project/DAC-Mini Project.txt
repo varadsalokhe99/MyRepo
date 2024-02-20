@@ -1,0 +1,35 @@
+
+Mini Project (Design Level)
+====================
+ 
+Following points are expected to be covered in the project.
+
+  1. Table Discription 
+      -This includes attributes, datatypes and constraints used  on attributes.
+      -Clauses like on delete/update set null/cascade  
+
+  2.  Populating / clearing data from tables
+       -Generating .sql file to populate / clear  data
+       -Data populated in tables should me relevant and meaningful.
+
+  3.  Implementation of constraints. 
+
+  4.  Stored procedures/functions if applicable.
+
+  5.  Triggers/cursors if applicable.
+ 
+  6.  E-R diagram
+
+
+Following points will be considered while evaluating the project
+
+  - Data Normalization
+    (Schema of your final tables will be checked thoroughly with applied  constraints )
+
+  - Proper understanding of implemented constraints.
+ 
+  - Explaination of  implemented stored procedure/function/ triggres  
+
+  - E-R Diagram explanation.
+
+  - Over all system understanding.
